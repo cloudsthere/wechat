@@ -1,5 +1,7 @@
 {
-    "name": "overtrue/wechat",
+
+    "name": "cloudsthere/wechat",
+
     "description": "微信SDK",
     "keywords": [
         "wechat",
